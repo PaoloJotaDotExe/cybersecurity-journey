@@ -4,7 +4,7 @@
 
 ## Professional statement
 
-I am a Computer Science undergraduate with three years of professional IT experience at a large Brazilian technology company that delivers solutions to public-sector organizations. Working remotely, I served as a requirements analyst, data engineer, data scientist, and data analyst, contributing to public-sector service orders from requirements gathering through delivery. Along the way, I built data pipelines and dashboards with Python and SQL and delivered three OCR projects that combined machine learning with pattern matching. I am a clear communicator, naturally curious, and committed to continuous learning.
+I am a Computer Science undergraduate with three years of professional IT experience at a large Brazilian technology company that delivers solutions to public-sector organizations. Working remotely, I served as a requirements analyst, data scientist, and data analyst, contributing to public-sector service orders from requirements gathering through delivery. Along the way, I built data pipelines and dashboards with Python and SQL and delivered three OCR projects that combined machine learning with pattern matching. I am a clear communicator, naturally curious, and committed to continuous learning.
 
 My interest in cybersecurity began with a simple question: how exposed am I? The more I studied, the more the field drew me in. I enjoy the strategic side of security, thinking like an attacker in order to build stronger defenses, and I am especially drawn to penetration testing. I am building a solid foundation through the Google Cybersecurity Professional Certificate and hands-on wargames such as OverTheWire, and I document my progress publicly on GitHub.
 
@@ -18,8 +18,8 @@ I want to bring my technical background, communication skills, and experience wi
 
 - **Communication:** I explain technical topics clearly to both technical and non-technical audiences, a skill I developed by gathering requirements from stakeholders and presenting results to them.
 - **Curiosity and continuous learning:** I actively seek out new knowledge and keep up with changes in technology. I study primarily in English, including hands-on labs, courses, and technical documentation.
-- **Technical background:** Python, SQL, data engineering, machine learning, deep learning, and AI engineering, including three OCR projects delivered from design to production.
-- **Professional experience:** Three years in IT at a large company serving public-sector clients, as a requirements analyst, data engineer, data scientist, and data analyst.
+- **Technical background:** Python, SQL, data analysis, machine learning, deep learning, and AI engineering, including three OCR projects delivered from design to production.
+- **Professional experience:** Three years in IT at a large company serving public-sector clients, as a requirements analyst, data scientist, and data analyst.
 
 ### Step 2 — Values
 

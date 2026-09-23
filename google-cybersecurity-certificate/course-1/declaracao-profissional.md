@@ -4,7 +4,7 @@
 
 ## Declaração profissional
 
-Sou estudante de Ciência da Computação, com três anos de experiência profissional em TI em uma grande empresa brasileira de tecnologia que desenvolve soluções para órgãos públicos. Em regime remoto, atuei como analista de requisitos, engenheiro de dados, cientista de dados e analista de dados, contribuindo com ordens de serviço para o setor público do levantamento de requisitos até a entrega. Nesse período, construí pipelines de dados e dashboards com Python e SQL e entreguei três projetos de OCR que combinavam machine learning com reconhecimento de padrões. Sou um comunicador claro, naturalmente curioso e comprometido com o aprendizado contínuo.
+Sou estudante de Ciência da Computação, com três anos de experiência profissional em TI em uma grande empresa brasileira de tecnologia que desenvolve soluções para órgãos públicos. Em regime remoto, atuei como analista de requisitos, cientista de dados e analista de dados, contribuindo com ordens de serviço para o setor público do levantamento de requisitos até a entrega. Nesse período, construí pipelines de dados e dashboards com Python e SQL e entreguei três projetos de OCR que combinavam machine learning com reconhecimento de padrões. Sou um comunicador claro, naturalmente curioso e comprometido com o aprendizado contínuo.
 
 Meu interesse por cibersegurança começou com uma pergunta simples: o quanto eu estou exposto? Quanto mais eu estudava, mais a área me conquistava. Gosto do lado estratégico da segurança, pensar como um atacante para construir defesas mais fortes, e tenho interesse especial em testes de invasão (pentest). Estou construindo uma base sólida com o Google Cybersecurity Professional Certificate e com desafios práticos como o OverTheWire, e documento meu progresso publicamente no GitHub.
 
@@ -18,8 +18,8 @@ Quero levar minha base técnica, minha comunicação e minha experiência com pr
 
 - **Comunicação:** explico temas técnicos com clareza para públicos técnicos e não técnicos, habilidade que desenvolvi levantando requisitos com stakeholders e apresentando resultados a eles.
 - **Curiosidade e aprendizado contínuo:** busco ativamente novos conhecimentos e acompanho a evolução da tecnologia. Estudo principalmente em inglês, incluindo laboratórios práticos, cursos e documentação técnica.
-- **Base técnica:** Python, SQL, engenharia de dados, machine learning, deep learning e engenharia de IA, incluindo três projetos de OCR entregues da concepção à produção.
-- **Experiência profissional:** três anos em TI em uma grande empresa que atende clientes do setor público, como analista de requisitos, engenheiro de dados, cientista de dados e analista de dados.
+- **Base técnica:** Python, SQL, análise de dados, machine learning, deep learning e engenharia de IA, incluindo três projetos de OCR entregues da concepção à produção.
+- **Experiência profissional:** três anos em TI em uma grande empresa que atende clientes do setor público, como analista de requisitos, cientista de dados e analista de dados.
 
 ### Etapa 2 — Valores
 
