@@ -8,7 +8,7 @@ I'm a Computer Science undergraduate with three years of IT experience in data a
 
 | Folder | What's inside |
 |---|---|
-| [`overthewire/bandit`](overthewire/bandit) | Writeups for the OverTheWire Bandit wargame (Linux and command line) |
+| [**bandit-journey**](https://github.com/PaoloJotaDotExe/bandit-journey) ↗ | Writeups for the OverTheWire Bandit wargame (separate repository) |
 | [`google-cybersecurity-certificate`](google-cybersecurity-certificate) | Portfolio activities from the Google Cybersecurity Professional Certificate |
 | [`tryhackme`](tryhackme) | Writeups for free TryHackMe rooms (coming soon) |
 | [`notes`](notes) | Study notes and cheat sheets |
